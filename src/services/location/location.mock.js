@@ -21,14 +21,14 @@ export const locations = {
       },
     ],
   },
-  "Kyiv francisco": {
+  kyiv: {
     results: [
       {
         geometry: {
-          location: { lat: 37.7749295, lng: -122.4194155 },
+          location: { lat: 50.481181, lng: 30.478843 },
           viewport: {
-            northeast: { lat: 37.812, lng: -122.3482 },
-            southwest: { lat: 37.70339999999999, lng: -122.527 },
+            northeast: { lat: 50.501179, lng: 30.451517 },
+            southwest: { lat: 50.420511, lng: 30.548157 },
           },
         },
       },

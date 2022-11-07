@@ -1,0 +1,217 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.441453, 
+            "lng": 30.519470
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.441453,
+              "lng": 30.519470
+            },
+            "southwest": {
+              "lat": 50.441453,
+              "lng": 30.519470
+            }
+          }
+        },
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Syayvo Kavy",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6786
+          }
+        ],
+        "place_id": "some place id 41",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1675,
+        "vicinity": "Велика Васильківська, 6, Київ, 02000"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.439345, 
+            "lng": 30.519703
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.439345, 
+              "lng": 30.519703
+            },
+            "southwest": {
+              "lat": 50.439345, 
+              "lng": 30.519703
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Balmelli Casual Cafe",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2322,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 4128
+          }
+        ],
+        "place_id": "some place id 42",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4404,
+        "vicinity": "вулиця Рогнідинська, 4, Київ, 01024"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.438936, 
+            "lng": 30.520628
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.438936,
+              "lng": 30.520628
+            },
+            "southwest": {
+              "lat": 50.438936,
+              "lng": 30.520628
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "BEEF meat&wine",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 576,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 1024
+          }
+        ],
+        "place_id": "some place id 43",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "night_club",
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1284,
+        "vicinity": "вулиця Шота Руставелі, 11, Київ, 02000"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 37.77710419999999,
+            "lng": -122.4227403
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.7783638802915,
+              "lng": -122.4215429197085
+            },
+            "southwest": {
+              "lat": 37.7756659197085,
+              "lng": -122.4242408802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Пузата Хата",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 468,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 960
+          }
+        ],
+        "place_id": "some place id 44",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1405,
+        "vicinity": "вулиця Басейна, 1/2а, Київ, 02000"
+      }
+    ],
+    "status": "OK"
+  }
