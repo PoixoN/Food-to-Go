@@ -6,22 +6,22 @@
         "business_status": "OPERATIONAL",
         "geometry": {
           "location": {
-            "lat": 50.441453, 
-            "lng": 30.519470
+            "lat": 49.425248, 
+            "lng": 26.988049
           },
           "viewport": {
             "northeast": {
-              "lat": 50.441453,
-              "lng": 30.519470
+              "lat": 49.425248, 
+              "lng": 26.988049
             },
             "southwest": {
               "lat": 50.441453,
-              "lng": 30.519470
+              "lng": 26.988049
             }
           }
         },
         "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-        "name": "Syayvo Kavy",
+        "name": "Coffee Boutique",
         "opening_hours": {
           "open_now": true
         },
@@ -53,28 +53,28 @@
           "establishment"
         ],
         "user_ratings_total": 1675,
-        "vicinity": "Велика Васильківська, 6, Київ, 02000"
+        "vicinity": "вулиця Володимирська, 38, Хмельницький, Хмельницька область, 29000"
       },
       {
         "business_status": "OPERATIONAL",
         "geometry": {
           "location": {
-            "lat": 50.439345, 
-            "lng": 30.519703
+            "lat": 49.422616, 
+            "lng": 26.990397
           },
           "viewport": {
             "northeast": {
-              "lat": 50.439345, 
-              "lng": 30.519703
+              "lat": 49.422616,
+              "lng": 26.990397
             },
             "southwest": {
-              "lat": 50.439345, 
-              "lng": 30.519703
+              "lat": 49.422616,
+              "lng": 26.990397
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-        "name": "Balmelli Casual Cafe",
+        "name": "Кав'ярня Старий Львів",
         "opening_hours": {
           "open_now": true
         },
@@ -104,28 +104,28 @@
           "establishment"
         ],
         "user_ratings_total": 4404,
-        "vicinity": "вулиця Рогнідинська, 4, Київ, 01024"
+        "vicinity": "вулиця Свободи, 47, Хмельницький, Хмельницька область, 29000"
       },
       {
         "business_status": "OPERATIONAL",
         "geometry": {
           "location": {
-            "lat": 50.438936, 
-            "lng": 30.520628
+            "lat": 49.420947, 
+            "lng": 26.992634
           },
           "viewport": {
             "northeast": {
-              "lat": 50.438936,
-              "lng": 30.520628
+              "lat": 49.420947, 
+              "lng": 26.992634
             },
             "southwest": {
-              "lat": 50.438936,
-              "lng": 30.520628
+              "lat": 49.420947, 
+              "lng": 26.992634
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-        "name": "BEEF meat&wine",
+        "name": "Dioscuri",
         "opening_hours": {
           "open_now": false
         },
@@ -158,28 +158,28 @@
           "establishment"
         ],
         "user_ratings_total": 1284,
-        "vicinity": "вулиця Шота Руставелі, 11, Київ, 02000"
+        "vicinity": "вулиця Проскурівська, 71, Хмельницький, Хмельницька область, 29000"
       },
       {
         "business_status": "OPERATIONAL",
         "geometry": {
           "location": {
-            "lat": 50.442286, 
-            "lng": 30.522347
+            "lat": 49.424151, 
+            "lng": 26.985419
           },
           "viewport": {
             "northeast": {
-              "lat": 50.442286,
-              "lng": 30.522347
+              "lat": 49.424151, 
+              "lng": 26.985419
             },
             "southwest": {
-              "lat": 50.442286,
-              "lng": 30.522347
+              "lat": 49.424151, 
+              "lng": 26.985419
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-        "name": "Пузата Хата",
+        "name": "booдні • coffee&breakfast",
         "opening_hours": {
           "open_now": false
         },
@@ -210,7 +210,7 @@
           "establishment"
         ],
         "user_ratings_total": 1405,
-        "vicinity": "вулиця Басейна, 1/2а, Київ, 02000"
+        "vicinity": "вулиця Проскурівська, 33, Хмельницький, Хмельницька область, 29000"
       }
     ],
     "status": "OK"

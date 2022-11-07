@@ -39,7 +39,7 @@ export default function App() {
           </LocationContextProvider>
         </FavouritesContextProvider>
       </ThemeProvider>
-      <ExpoStatusBar style="auto" />
+      <ExpoStatusBar style="dark" />
     </>
   );
 }

@@ -1,12 +1,8 @@
-import antwerp from "./antwerp.json";
-import chicago from "./chicago.json";
-import toronto from "./toronto.json";
+import khm from "./khm.json";
 import kyiv from "./kyiv.json";
 
 export const mocks = {
-  "51.219448,4.402464": antwerp,
-  "43.653225,-79.383186": toronto,
-  "41.878113,-87.629799": chicago,
+  "49.421627,26.991233": khm,
   "50.481181,30.478843": kyiv,
 };
 
